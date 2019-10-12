@@ -18,4 +18,6 @@ public class SingleTon {
 // For a normal class, we use a constructor, whereas for singleton class we use the getInstance()method.
 // The singleton design pattern is used to restrict the instantiation of a class and ensures that only one instance of the class exists in the JVM.
 // In other words, a singleton class is a class that can have only one object (an instance of the class) at a time per JVM instance.
-// There are various ways to design/code a singleton class.
+// There are various ways to design/code a singleton class.Singleton pattern helps us to keep only one instance of a class at any time.
+// The purpose of singleton is to control object creation by keeping private constructor.
+// In object-oriented programming, a singleton class is a class that can have only one object (an instance of the class) at a time.
